@@ -10,7 +10,7 @@
     "chalk": "^4.0.0",
     "country-list": "^2.2.0",
     "country-state-picker": "^1.1.1",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mongodb": "^3.5.7",
     "mongoose": "^5.9.14",
     "npm-address-jig": "^1.0.6",
